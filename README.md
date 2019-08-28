@@ -1,5 +1,5 @@
-## [v0.0.3](https://github.com/shanuan/blcd5/edit/master/README.md)
+## [v0.0.4](https://github.com/shanuan/blcd5/edit/master/README.md)
 ## [cd01](cd01) 
-## [cd02/1](cd02/1) [cd02/2](cd02/2)
+## Foundation ska [CD] by Skatalites: [cd02/1](cd02/1) [cd02/2](cd02/2)
 ## [cd03](cd03) 
 ## [cd05](cd05)
